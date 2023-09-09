@@ -1,0 +1,31 @@
+body {
+  display: grid;
+  background-color: rgb(74, 74, 74);
+  place-items: center;
+  height: 75vh;
+  font-family: 'Courier New', monospace;
+}
+
+h1 {
+  color: white;
+  font-size: 175px;
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+}
+
+h1:hover {
+  color: rgb(74, 74, 74);
+  background-color: white;
+}
+
+div {
+  color: white;
+  font-size: 140px;
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+}
+
+div:hover {
+  color: rgb(74, 74, 74);
+  background-color: white;
+}
